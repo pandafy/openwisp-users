@@ -1,10 +1,13 @@
 Changelog
 =========
 
-Version 0.3.0 [unreleased]
+Version 0.3.0 [2020-06-26]
 --------------------------
 
-WIP
+- [models] Added swappable models and extensible classes
+- [dependencies] Upgraded ``phonenumbers 8.12.0``,
+  ``openwisp-utils 0.5[rest]`` and ``allauth 0.42.0``
+- [api] Added REST API endpoint for bearer authentication.
 
 Version 0.2.2 [2020-05-04]
 --------------------------
